@@ -1,4 +1,4 @@
-👋 Hi, I'm brahim akerkouch
+👋 Hi, I'm brahim
 
 Welcome to my GitHub! I’m a passionate data professional with expertise in various areas of data science and engineering. I enjoy solving complex problems and building robust data solutions.
 
