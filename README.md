@@ -13,7 +13,7 @@ Welcome to my GitHub! I’m a passionate data professional with expertise in var
 
 # What I’m Currently Working On
 
-I'm currently focused on projects involving data integration in the healthcare industry, ETL pipeline development, and building machine learning models to extract valuable insights from diverse data sources.
+I'm currently focused on projects involving data integration across various industries, ETL pipeline development, and building machine learning models to extract valuable insights from diverse data sources.
 
 # Get in Touch
 
