@@ -19,5 +19,6 @@ I'm currently focused on projects involving data integration across various indu
 
 Feel free to reach out if you want to collaborate or discuss data-driven solutions!
 
-[LinkedIn Profile](https://www.linkedin.com/in/brahimakerkouch/) 
+[LinkedIn Profile](https://www.linkedin.com/in/brahimakerkouch/)
+
 [Email Me](mailto:ibrahimakerkouch@gmail.com)
