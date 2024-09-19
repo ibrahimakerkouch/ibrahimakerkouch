@@ -4,12 +4,12 @@ Welcome to my GitHub! I’m a passionate data professional with expertise in var
 
 # Skills & Competencies
 
-    - 🗂️ Data Collection and Cleaning.
-    - 🔄 ETL & Data Pipelines Design & Development.
-    - 🛠️ Data Quality Assurance & Troubleshooting.
-    - 📊 Data Analysis, Visualization, and Reporting.
-    - 🤖 Machine Learning & Predictive Modeling.
-    - 📝 Natural Language Processing (NLP).
+    🗂️ Data Collection and Cleaning.
+    🔄 ETL & Data Pipelines Design & Development.
+    🛠️ Data Quality Assurance & Troubleshooting.
+    📊 Data Analysis, Visualization, and Reporting.
+    🤖 Machine Learning & Predictive Modeling.
+    📝 Natural Language Processing (NLP).
 
 # What I’m Currently Working On
 
