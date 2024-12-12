@@ -5,6 +5,7 @@ Welcome to my GitHub! I’m a passionate data professional with expertise in dat
 # Skills & Competencies
 
     🗂️ Data Collection and Cleaning.
+    🕵️‍♂️ Exploratory Data Analysis (EDA).
     🔄 ETL & Data Pipelines Design & Development.
     🛠️ Data Quality Assurance & Troubleshooting.
 
