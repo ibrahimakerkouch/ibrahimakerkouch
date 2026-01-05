@@ -1,22 +1,28 @@
 👋 Hi, I'm brahim
 
-<b>Welcome to my GitHub!</b> I’m a passionate data professional with expertise in data engineering, ETL pipelines, and data quality management. I enjoy solving complex problems, performing data validation, anomaly detection, root-cause analysis, and dashboard reporting, while building robust and reliable data solutions.
+<b>Welcome to my GitHub!</b> I’m a data professional specializing in data engineering, ETL pipelines, and data quality. I enjoy solving complex data problems and building reliable, scalable data solutions. My work focuses on performing data validation, anomaly detection, root-cause analysis, and dashboard reporting to ensure accurate and trustworthy data across systems.
 
 # Skills & Competencies
+    
+    📥 Data Collection & Data Ingestion
+    🏗️ Data Engineering & ETL Pipeline Development
+    ✅ Data Quality Management & Validation
+    🔍 Anomaly Detection & Root-Cause Analysis
+    🔄 Data Integration & Migration
+    🧪 Data Cleaning, Transformation & Enrichment
+    📈 Dashboarding, Reporting & Data Visualization
 
-    🗂️ Data Collection and Cleaning.
-    🕵️‍♂️ Exploratory Data Analysis (EDA).
-    🔄 ETL & Data Pipelines Design & Development.
-    🛠️ Data Quality Assurance & Troubleshooting.
+# What You’ll Find Here
 
-# What I’m Currently Working On
-
-I'm currently focused on projects involving data integration across various industries, ETL pipeline development, and building machine learning models to extract valuable insights from diverse data sources.
+    ⚙️ End-to-end ETL and data integration projects
+    🔍 Data quality, duplicate-detection, and issue detection workflows
+    🧬 Real-world datasets and pipeline testing setups
+    📈 Dashboards and visual analytics for KPIs, patterns, and trends
+    🧱 Documentation and best practices for scalable data solutions
 
 # Get in Touch
 
 Feel free to reach out if you want to collaborate or discuss data-driven solutions!
 
 [LinkedIn Profile](https://www.linkedin.com/in/brahimakerkouch/)
-
 [Email Me](mailto:ibrahimakerkouch@gmail.com)
