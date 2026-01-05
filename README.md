@@ -1,6 +1,6 @@
 👋 Hi, I'm brahim
 
-Welcome to my GitHub! I’m a passionate data professional with expertise in data engineering. I enjoy solving complex problems and building robust data solutions.
+Welcome to my GitHub! I’m a passionate data professional with expertise in data engineering, ETL pipelines, and data quality management. I enjoy solving complex problems, performing data validation, anomaly detection, root-cause analysis, and dashboard reporting, while building robust and reliable data solutions.
 
 # Skills & Competencies
 
